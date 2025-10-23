@@ -23,12 +23,8 @@ Provide a more detailed explanation of your project.
 
 Here are some sample images from the datasets, which are located in the `/ByzArt2K/Documents/ByzArt` directory of this repository.
 
-**Important:** The path to your images must be **relative to the `README.md` file**.
-* If your images are in `root/dataset/images/`, the path is `./dataset/images/image.jpg`.
-* If your images are in `root/images/`, the path is `./images/image.jpg`.
-
 ### Image Samples
-You can use a table to create a clean grid layout.
+
 
 | Category A / Class 1 | Category B / Class 2 |
 | :---: | :---: |

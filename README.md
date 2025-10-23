@@ -26,7 +26,7 @@ Here are some sample images from the datasets, which are located in the `/ByzArt
 ### Image Samples
 
 
-| Category A / Class 1 | Category B / Class 2 |
+| Sample 1 / Sample 2 | Sample 3 / Sample 4 |
 | :---: | :---: |
 | ![Alt text for image 1](./Documents/ByzArt/byzart_base.v1i.voc/test/138876558_jpg.rf.ce3e810e83dab7aec9b72f6c1cebaa7c.jpg) | ![Alt text for image 2](./Documents/ByzArt/byzart_base.v1i.voc/test/167880916_jpg.rf.eeb9c8b686d384bbfa0e97557a671425.jpg) |
 | *Caption: An icon depicting one of the holy church fathers* | *Caption: An icon depicting the scene of the nursing mother* |

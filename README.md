@@ -1,4 +1,4 @@
-# ByzArt Dataset - (Submitted for Review to ACM JOOCH)
+# ByzArt Dataset - (Under Review in ACM JOOCH)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub issues](https://img.shields.io/github/issues/p1nkpan7er/ByzArt2K)

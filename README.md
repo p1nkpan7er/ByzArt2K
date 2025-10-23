@@ -1,5 +1,4 @@
-# ByzArt Dataset - 
-#(Under Review in ACM Journal on Computing and Cultural Heritage)
+# ByzArt Dataset - (Under Review in ACM Journal on Computing and Cultural Heritage)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![GitHub issues](https://img.shields.io/github/issues/p1nkpan7er/ByzArt2K)

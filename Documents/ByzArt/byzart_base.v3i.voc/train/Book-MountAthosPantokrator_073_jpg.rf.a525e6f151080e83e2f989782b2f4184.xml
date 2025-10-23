@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>Book-MountAthosPantokrator_073_jpg.rf.a525e6f151080e83e2f989782b2f4184.jpg</filename>
+	<path>Book-MountAthosPantokrator_073_jpg.rf.a525e6f151080e83e2f989782b2f4184.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>329</xmin>
+			<xmax>407</xmax>
+			<ymin>551</ymin>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

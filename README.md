@@ -32,7 +32,7 @@ You can use a table to create a clean grid layout.
 
 | Category A / Class 1 | Category B / Class 2 |
 | :---: | :---: |
-| ![Alt text for image 1](./Documents/ByzArt/previews/byzart_base.v1i.voc/test/138876558_jpg.rf.ce3e810e83dab7aec9b72f6c1cebaa7c.jpg) | ![Alt text for image 2](./Documents/ByzArt/byzart_base.v1i.voc/test/167880916_jpg.rf.eeb9c8b686d384bbfa0e97557a671425.jpg) |
+| ![Alt text for image 1](./Documents/ByzArt/byzart_base.v1i.voc/test/138876558_jpg.rf.ce3e810e83dab7aec9b72f6c1cebaa7c.jpg) | ![Alt text for image 2](./Documents/ByzArt/byzart_base.v1i.voc/test/167880916_jpg.rf.eeb9c8b686d384bbfa0e97557a671425.jpg) |
 | *Caption: An icon depicting one of the holy church fathers* | *Caption: An icon depicting the scene of the nursing mother* |
 | ![Alt text for image 3](./Documents/ByzArt/byzart_base.v1i.voc/valid/00004741-2_jpg.rf.b962ab350648499b555eca807ff4f4c7.jpg) | ![Alt text for image 4](./Documents/ByzArt/byzart_base.v1i.voc/valid/474031874_jpg.rf.76387b67a83fe9597e5544e14e653ae8.jpg) |
 | *Caption: Holy men gathering* | *Caption: Saint Catherine* |

@@ -12,7 +12,6 @@ This dataset was manually constucted and annotated using images of icons found i
 ## 📖 About The Project
 Byzart aims to be used for object detection of Orthodox Christian art, which currently is underrepresented in the field of AI.
 * The main motivation of this project is to facilitate a new avenue of AI research in the domain of art and in particular Christian art.
-Provide a more detailed explanation of your project.
 * Our dataset has been used for both complex and more lightweight networks: ranging from YOLO8 to YOLO12 networks, as well as DETR/RT-DETR and RF-DETR.
 * If you would like to test and replicate my work, you can download the models from Roboflow and train them on Byzart using your own GPU, or even better train them on Google Colab!
 * We believe that the ByzArt dataset contributes to a currently underrepresented avenue of religious art data for deep learning technologies.
